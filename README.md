@@ -1,6 +1,6 @@
 <div align="center"> <h1>Eugene Chung · 정유진</h1>
 
-<b>Backend & Cloud Infrastructure Developer</b><br/> Edge & Distributed Systems · Observability<br/> Software @ Gachon University, South Korea 🇰🇷
+<b>Backend & Cloud Infrastructure Developer</b><br/> Edge & Distributed Systems · Observability<br/> Software @ Gachon University, South Korea
 
 <br/>
 
